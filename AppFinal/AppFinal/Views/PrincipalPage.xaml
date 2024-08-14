@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppFinal.Views.PrincipalPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout HorizontalOptions="Center">
+
+                <StackLayout>
+
+                    <Label Text="Bienvenido al gestor de Soporte" FontSize="30" Margin="0,100"/>
+
+                </StackLayout>
+
+                <StackLayout>
+
+                    <Button x:Name="empezar" Clicked= "empezar_Clicked" Text="Iniciar" HorizontalOptions="Center" FontSize="70" />
+
+                </StackLayout>
+
+            </StackLayout>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

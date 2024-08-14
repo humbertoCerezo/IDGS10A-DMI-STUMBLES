@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aquin\\OneDrive\\Escritorio\\mark1.2\\AppFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C619792-8BF8-481A-AB71-7E54A4AF58D0}|AppFinal\\AppFinal.csproj|c:\\users\\aquin\\onedrive\\escritorio\\mark1.2\\appfinal\\appfinal\\models\\contactos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C619792-8BF8-481A-AB71-7E54A4AF58D0}|AppFinal\\AppFinal.csproj|solutionrelative:appfinal\\models\\contactos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C619792-8BF8-481A-AB71-7E54A4AF58D0}|AppFinal\\AppFinal.csproj|c:\\users\\aquin\\onedrive\\escritorio\\mark1.2\\appfinal\\appfinal\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C619792-8BF8-481A-AB71-7E54A4AF58D0}|AppFinal\\AppFinal.csproj|solutionrelative:appfinal\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C619792-8BF8-481A-AB71-7E54A4AF58D0}|AppFinal\\AppFinal.csproj|c:\\users\\aquin\\onedrive\\escritorio\\mark1.2\\appfinal\\appfinal\\views\\loginpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{3C619792-8BF8-481A-AB71-7E54A4AF58D0}|AppFinal\\AppFinal.csproj|solutionrelative:appfinal\\views\\loginpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C619792-8BF8-481A-AB71-7E54A4AF58D0}|AppFinal\\AppFinal.csproj|c:\\users\\aquin\\onedrive\\escritorio\\mark1.2\\appfinal\\appfinal\\views\\addcontacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C619792-8BF8-481A-AB71-7E54A4AF58D0}|AppFinal\\AppFinal.csproj|solutionrelative:appfinal\\views\\addcontacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C619792-8BF8-481A-AB71-7E54A4AF58D0}|AppFinal\\AppFinal.csproj|c:\\users\\aquin\\onedrive\\escritorio\\mark1.2\\appfinal\\appfinal\\views\\editarcontactos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C619792-8BF8-481A-AB71-7E54A4AF58D0}|AppFinal\\AppFinal.csproj|solutionrelative:appfinal\\views\\editarcontactos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C619792-8BF8-481A-AB71-7E54A4AF58D0}|AppFinal\\AppFinal.csproj|c:\\users\\aquin\\onedrive\\escritorio\\mark1.2\\appfinal\\appfinal\\views\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C619792-8BF8-481A-AB71-7E54A4AF58D0}|AppFinal\\AppFinal.csproj|solutionrelative:appfinal\\views\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C619792-8BF8-481A-AB71-7E54A4AF58D0}|AppFinal\\AppFinal.csproj|c:\\users\\aquin\\onedrive\\escritorio\\mark1.2\\appfinal\\appfinal\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C619792-8BF8-481A-AB71-7E54A4AF58D0}|AppFinal\\AppFinal.csproj|solutionrelative:appfinal\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C619792-8BF8-481A-AB71-7E54A4AF58D0}|AppFinal\\AppFinal.csproj|c:\\users\\aquin\\onedrive\\escritorio\\mark1.2\\appfinal\\appfinal\\views\\principalpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{3C619792-8BF8-481A-AB71-7E54A4AF58D0}|AppFinal\\AppFinal.csproj|solutionrelative:appfinal\\views\\principalpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C619792-8BF8-481A-AB71-7E54A4AF58D0}|AppFinal\\AppFinal.csproj|c:\\users\\aquin\\onedrive\\escritorio\\mark1.2\\appfinal\\appfinal\\views\\vercontactos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C619792-8BF8-481A-AB71-7E54A4AF58D0}|AppFinal\\AppFinal.csproj|solutionrelative:appfinal\\views\\vercontactos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C619792-8BF8-481A-AB71-7E54A4AF58D0}|AppFinal\\AppFinal.csproj|c:\\users\\aquin\\onedrive\\escritorio\\mark1.2\\appfinal\\appfinal\\views\\principalpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C619792-8BF8-481A-AB71-7E54A4AF58D0}|AppFinal\\AppFinal.csproj|solutionrelative:appfinal\\views\\principalpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C619792-8BF8-481A-AB71-7E54A4AF58D0}|AppFinal\\AppFinal.csproj|c:\\users\\aquin\\onedrive\\escritorio\\mark1.2\\appfinal\\appfinal\\views\\eliminarcontactos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C619792-8BF8-481A-AB71-7E54A4AF58D0}|AppFinal\\AppFinal.csproj|solutionrelative:appfinal\\views\\eliminarcontactos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\aquin\\OneDrive\\Escritorio\\mark1.2\\AppFinal\\AppFinal\\Views\\HomePage.cs",
+              "RelativeDocumentMoniker": "AppFinal\\Views\\HomePage.cs",
+              "ToolTip": "C:\\Users\\aquin\\OneDrive\\Escritorio\\mark1.2\\AppFinal\\AppFinal\\Views\\HomePage.cs",
+              "RelativeToolTip": "AppFinal\\Views\\HomePage.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAAEIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:22:29.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditarContactos.cs",
+              "DocumentMoniker": "C:\\Users\\aquin\\OneDrive\\Escritorio\\mark1.2\\AppFinal\\AppFinal\\Views\\EditarContactos.cs",
+              "RelativeDocumentMoniker": "AppFinal\\Views\\EditarContactos.cs",
+              "ToolTip": "C:\\Users\\aquin\\OneDrive\\Escritorio\\mark1.2\\AppFinal\\AppFinal\\Views\\EditarContactos.cs",
+              "RelativeToolTip": "AppFinal\\Views\\EditarContactos.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAQwF8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T00:38:52.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddContacts.cs",
+              "DocumentMoniker": "C:\\Users\\aquin\\OneDrive\\Escritorio\\mark1.2\\AppFinal\\AppFinal\\Views\\AddContacts.cs",
+              "RelativeDocumentMoniker": "AppFinal\\Views\\AddContacts.cs",
+              "ToolTip": "C:\\Users\\aquin\\OneDrive\\Escritorio\\mark1.2\\AppFinal\\AppFinal\\Views\\AddContacts.cs",
+              "RelativeToolTip": "AppFinal\\Views\\AddContacts.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAYwEoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:31:49.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\aquin\\OneDrive\\Escritorio\\mark1.2\\AppFinal\\AppFinal\\Views\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "AppFinal\\Views\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\aquin\\OneDrive\\Escritorio\\mark1.2\\AppFinal\\AppFinal\\Views\\LoginPage.xaml",
+              "RelativeToolTip": "AppFinal\\Views\\LoginPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-07T20:39:58.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\aquin\\OneDrive\\Escritorio\\mark1.2\\AppFinal\\AppFinal\\App.xaml.cs",
+              "RelativeDocumentMoniker": "AppFinal\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\aquin\\OneDrive\\Escritorio\\mark1.2\\AppFinal\\AppFinal\\App.xaml.cs",
+              "RelativeToolTip": "AppFinal\\App.xaml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:23:17.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contactos.cs",
+              "DocumentMoniker": "C:\\Users\\aquin\\OneDrive\\Escritorio\\mark1.2\\AppFinal\\AppFinal\\Models\\Contactos.cs",
+              "RelativeDocumentMoniker": "AppFinal\\Models\\Contactos.cs",
+              "ToolTip": "C:\\Users\\aquin\\OneDrive\\Escritorio\\mark1.2\\AppFinal\\AppFinal\\Models\\Contactos.cs",
+              "RelativeToolTip": "AppFinal\\Models\\Contactos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:09:19.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\aquin\\OneDrive\\Escritorio\\mark1.2\\AppFinal\\AppFinal\\Views\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "AppFinal\\Views\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\aquin\\OneDrive\\Escritorio\\mark1.2\\AppFinal\\AppFinal\\Views\\LoginPage.xaml.cs",
+              "RelativeToolTip": "AppFinal\\Views\\LoginPage.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAzwCwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T20:40:07.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PrincipalPage.xaml",
+              "DocumentMoniker": "C:\\Users\\aquin\\OneDrive\\Escritorio\\mark1.2\\AppFinal\\AppFinal\\Views\\PrincipalPage.xaml",
+              "RelativeDocumentMoniker": "AppFinal\\Views\\PrincipalPage.xaml",
+              "ToolTip": "C:\\Users\\aquin\\OneDrive\\Escritorio\\mark1.2\\AppFinal\\AppFinal\\Views\\PrincipalPage.xaml",
+              "RelativeToolTip": "AppFinal\\Views\\PrincipalPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-13T04:08:16.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "vercontactos.cs",
+              "DocumentMoniker": "C:\\Users\\aquin\\OneDrive\\Escritorio\\mark1.2\\AppFinal\\AppFinal\\Views\\vercontactos.cs",
+              "RelativeDocumentMoniker": "AppFinal\\Views\\vercontactos.cs",
+              "ToolTip": "C:\\Users\\aquin\\OneDrive\\Escritorio\\mark1.2\\AppFinal\\AppFinal\\Views\\vercontactos.cs",
+              "RelativeToolTip": "AppFinal\\Views\\vercontactos.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwCIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T09:36:30.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PrincipalPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\aquin\\OneDrive\\Escritorio\\mark1.2\\AppFinal\\AppFinal\\Views\\PrincipalPage.xaml.cs",
+              "RelativeDocumentMoniker": "AppFinal\\Views\\PrincipalPage.xaml.cs",
+              "ToolTip": "C:\\Users\\aquin\\OneDrive\\Escritorio\\mark1.2\\AppFinal\\AppFinal\\Views\\PrincipalPage.xaml.cs",
+              "RelativeToolTip": "AppFinal\\Views\\PrincipalPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T20:27:41.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EliminarContactos.cs",
+              "DocumentMoniker": "C:\\Users\\aquin\\OneDrive\\Escritorio\\mark1.2\\AppFinal\\AppFinal\\Views\\EliminarContactos.cs",
+              "RelativeDocumentMoniker": "AppFinal\\Views\\EliminarContactos.cs",
+              "ToolTip": "C:\\Users\\aquin\\OneDrive\\Escritorio\\mark1.2\\AppFinal\\AppFinal\\Views\\EliminarContactos.cs",
+              "RelativeToolTip": "AppFinal\\Views\\EliminarContactos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T04:48:21.72Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
